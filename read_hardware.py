@@ -1,3 +1,4 @@
+#This is my first step of the project. With the code, I used the light sensor to scan through a bar code and get a csv file
 import time
 import board
 from analogio import AnalogIn, AnalogOut
